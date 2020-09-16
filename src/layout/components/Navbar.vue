@@ -4,7 +4,7 @@
 <!--    LOGO-->
 <!--    <div style="height: 50px; float: left; padding-top: 12px; "><img /></div>-->
     <div style="height: 50px; float: left; padding-top: 13px; ">
-      <span style="font-size: 19px; color: white; ">Vue Admin SYH</span>
+      <span style="font-size: 19px; color: white; ">Vue Admin</span>
     </div>
     <breadcrumb id="breadcrumb-container" class="breadcrumb-container" />
     <div class="right-menu">
