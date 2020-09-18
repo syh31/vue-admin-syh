@@ -210,6 +210,7 @@ export default {
     height: 60px;
     margin-top: 5px;
     border: 0;
+    background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
 
     &:hover {
       opacity: 0.9;
